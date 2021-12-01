@@ -1,0 +1,372 @@
+    0  —  0  —  0  —  0  —  0  —  0    
+
+current location is[0, 0]
+the information of location is:
+[east, DIAMONDS]
+input treasures you want to pick up, if more than one treasure, split treasures by',' if no treasure you want to pick up, input no
+diaminds
+invalid input, please input again
+diamonds
+you successfully pick up the treasure
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+east
+you successfully moved to [0, 1]
+current location is[0, 1]
+the information of location is:
+[east, west]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+east
+you successfully moved to [0, 2]
+current location is[0, 2]
+the information of location is:
+[east, west]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+east
+you successfully moved to [0, 3]
+current location is[0, 3]
+the information of location is:
+[east, west]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+east
+you successfully moved to [0, 4]
+current location is[0, 4]
+the information of location is:
+[east, west]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+east
+you successfully moved to [0, 5]
+you reached the end, game over
+
+——
+
+    0  —  0  —  0  —  0     0  —  0    
+
+current location is[0, 4]
+the information of location is:
+[east, DIAMONDS]
+input treasures you want to pick up, if more than one treasure, split treasures by',' if no treasure you want to pick up, input no
+diamonds
+you successfully pick up the treasure
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+east
+you successfully moved to [0, 5]
+current location is[0, 5]
+the information of location is:
+[west, east]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+east
+you successfully moved to [0, 0]
+current location is[0, 0]
+the information of location is:
+[east, west]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+east
+you successfully moved to [0, 1]
+current location is[0, 1]
+the information of location is:
+[west, east]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+east
+you successfully moved to [0, 2]
+current location is[0, 2]
+the information of location is:
+[east, west]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+east
+you successfully moved to [0, 3]
+you reached the end, game over
+
+——
+
+    0    
+    |    
+    0    
+    |    
+    0    
+    |    
+    0    
+    |    
+    0    
+    |    
+    0    
+
+current location is[0, 0]
+the information of location is:
+[south, DIAMONDS]
+input treasures you want to pick up, if more than one treasure, split treasures by',' if no treasure you want to pick up, input no
+diamonds
+you successfully pick up the treasure
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+south
+you successfully moved to [1, 0]
+current location is[1, 0]
+the information of location is:
+[south, north]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+south
+you successfully moved to [2, 0]
+current location is[2, 0]
+the information of location is:
+[south, north]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+south
+you successfully moved to [3, 0]
+current location is[3, 0]
+the information of location is:
+[north, south]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+south
+you successfully moved to [4, 0]
+current location is[4, 0]
+the information of location is:
+[north, south]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+south
+you successfully moved to [5, 0]
+you reached the end, game over
+
+——
+
+    0    
+    |    
+    0    
+         
+    0    
+    |    
+    0    
+    |    
+    0    
+    |    
+    0    
+
+current location is[2, 0]
+the information of location is:
+[south, DIAMONDS]
+input treasures you want to pick up, if more than one treasure, split treasures by',' if no treasure you want to pick up, input no
+diamonds
+you successfully pick up the treasure
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+south
+you successfully moved to [3, 0]
+current location is[3, 0]
+the information of location is:
+[north, south]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+south
+you successfully moved to [4, 0]
+current location is[4, 0]
+the information of location is:
+[south, north]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+south
+you successfully moved to [5, 0]
+current location is[5, 0]
+the information of location is:
+[north, south]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+south
+you successfully moved to [0, 0]
+current location is[0, 0]
+the information of location is:
+[south, north]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+south
+you successfully moved to [1, 0]
+you reached the end, game over
+
+——
+
+    0  —  0  —  0  —  0    
+          |     |     |    
+    0  —  0     0  —  0    
+                      |    
+    0  —  0  —  0  —  0    
+                |     |    
+    0  —  0  —  0  —  0    
+
+current location is[0, 0]
+the information of location is:
+[east]
+treasure you currently have:
+{}
+input the direction you want to move
+east
+you successfully moved to [0, 1]
+current location is[0, 1]
+the information of location is:
+[east, south, west]
+treasure you currently have:
+{}
+input the direction you want to move
+east
+you successfully moved to [0, 2]
+current location is[0, 2]
+the information of location is:
+[east, west, south, DIAMONDS]
+input treasures you want to pick up, if more than one treasure, split treasures by',' if no treasure you want to pick up, input no
+no
+you choose to pick up no treasure
+treasure you currently have:
+{}
+input the direction you want to move
+east
+you successfully moved to [0, 3]
+current location is[0, 3]
+the information of location is:
+[south, west]
+treasure you currently have:
+{}
+input the direction you want to move
+south
+you successfully moved to [1, 3]
+current location is[1, 3]
+the information of location is:
+[north, west, south, DIAMONDS, RUBIES]
+input treasures you want to pick up, if more than one treasure, split treasures by',' if no treasure you want to pick up, input no
+rubies
+you successfully pick up the treasure
+treasure you currently have:
+{RUBIES=1}
+input the direction you want to move
+south
+you successfully moved to [2, 3]
+current location is[2, 3]
+the information of location is:
+[west, north, south, DIAMONDS, RUBIES]
+input treasures you want to pick up, if more than one treasure, split treasures by',' if no treasure you want to pick up, input no
+diamonds
+you successfully pick up the treasure
+treasure you currently have:
+{DIAMONDS=1, RUBIES=1}
+input the direction you want to move
+west
+you successfully moved to [2, 2]
+you reached the end, game over
+
+——
+
+    0  —  0  —  0  —  0    
+          |                
+    0  —  0  —  0     0    
+                      |    
+    0  —  0  —  0  —  0    
+    |           |     |    
+    0  —  0  —  0  —  0    
+
+current location is[1, 0]
+the information of location is:
+[east]
+treasure you currently have:
+{}
+input the direction you want to move
+east
+you successfully moved to [1, 1]
+current location is[1, 1]
+the information of location is:
+[north, west, east, DIAMONDS]
+input treasures you want to pick up, if more than one treasure, split treasures by',' if no treasure you want to pick up, input no
+north
+invalid input, please input again
+diamonds
+you successfully pick up the treasure
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+north
+you successfully moved to [0, 1]
+current location is[0, 1]
+the information of location is:
+[east, south, west, north]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+north
+you successfully moved to [3, 1]
+current location is[3, 1]
+the information of location is:
+[east, west, south, DIAMONDS]
+input treasures you want to pick up, if more than one treasure, split treasures by',' if no treasure you want to pick up, input no
+east
+invalid input, please input again
+no
+you choose to pick up no treasure
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+east
+you successfully moved to [3, 2]
+current location is[3, 2]
+the information of location is:
+[west, east, north]
+treasure you currently have:
+{DIAMONDS=1}
+input the direction you want to move
+north
+you successfully moved to [2, 2]
+current location is[2, 2]
+the information of location is:
+[west, east, south, DIAMONDS]
+input treasures you want to pick up, if more than one treasure, split treasures by',' if no treasure you want to pick up, input no
+east
+invalid input, please input again
+diamonds
+you successfully pick up the treasure
+treasure you currently have:
+{DIAMONDS=2}
+input the direction you want to move
+east
+you successfully moved to [2, 3]
+current location is[2, 3]
+the information of location is:
+[south, north, west, DIAMONDS]
+input treasures you want to pick up, if more than one treasure, split treasures by',' if no treasure you want to pick up, input no
+diamonds
+you successfully pick up the treasure
+treasure you currently have:
+{DIAMONDS=3}
+input the direction you want to move
+north
+you successfully moved to [1, 3]
+you reached the end, game over
+
+

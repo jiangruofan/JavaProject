@@ -1,0 +1,31 @@
+The number of room and size should be positive.
+set the isolation number is 5, enclosure number is 3 and enclosures size is 15
+put obj1, obj2, obj3, obj4 to the isolations
+put obj4 into isolations, but the name already exists in isolation
+put obj5 into the isolation
+put obj6 into isolations, but The isolations are full
+obj1 is successfully transferred to Enclosures 1
+obj2 is successfully transferred to Enclosures 2
+obj3 is successfully transferred to Enclosures 2
+obj4 is successfully transferred to Enclosures 3
+there is no room available for the monkey in this sanctuary and will be transferred to other sanctuaries
+transfer obj10 to enclosures, but the monkey does not exist.
+put obj2 into isolations, but the name already exists in enclosure
+obj1 is successfully transferred to Isolation 1
+obj2 is successfully transferred to Isolation 2
+the sign for enclosure 2 is: [obj3, male, treeSap]
+the sign for enclosure 3 is: [obj4, female, leaves]
+the sign for enclosure 1 is: [the enclosure is empty]
+put obj6, obj7, obj8 into the isolation
+transfer obj3 to the isolation, but The isolations are full and you need to find out another solution
+transfer obj10 to the isolation, but the monkey does not exit.
+the species and their living place are: [drill is in isolation:1, queer is in isolation:4, queer is in isolation:5, saki is in enclosures:3, saki is in isolation:2, tamarind is in isolation:3]
+drill is in [isolation:1]
+saki is in [isolation:2, enclosures:3]
+queer is in [isolation:4, isolation:5]
+tamarind is in [isolation:3]
+[there is no such species]
+name list is: [obj1 in isolation:1, obj2 in isolation:2, obj4 in enclosure:3, obj6 in isolation:3, obj7 in isolation:4, obj8 in isolation:5]
+shopping list is: {eggs=100, fruits=250, leaves=500, insects=600}
+old isolation size is 5, old enclosures size is 3, new isolation size is 10, new enclosures size is 10
+new size should be larger than old size

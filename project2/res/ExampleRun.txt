@@ -1,0 +1,122 @@
+Let's make a fight between two players!
+player1 strength:14 constitution:14 dexterity:13 charisma:13
+player2 strength:11 constitution:16 dexterity:13 charisma:17
+Player1 : [29, 19, 19, 18, Headgear3, Potion10, Potion11, Potion13, Potion15, Potion5, Potion8, Belt10, Belt13, Belt3, Belt4, Belt6, Belt8, Footwear5, BROADSWORDS]
+Player2 : [21, 27, 25, 28, Headgear1, Potion1, Potion12, Potion13, Potion7, Potion8, Potion9, Belt10, Belt14, Belt3, Belt6, Belt9, Footwear1, TWOHANDEDSWORDS]
+player2 first attacks.
+player2 attacks and causes 14.000000 damage to player1
+player1 attacks and causes 10.000000 damage to player2
+player2 attacks and failed.
+player1 attacks and causes 10.000000 damage to player2
+player2 attacks and causes 12.000000 damage to player1
+player1 attacks and causes 9.000000 damage to player2
+player2 attacks and failed.
+player1 attacks and causes 11.000000 damage to player2
+player2 attacks and failed.
+player1 attacks and causes 12.000000 damage to player2
+player2 attacks and causes 13.000000 damage to player1
+player1 attacks and causes 11.000000 damage to player2
+player2 attacks and causes 12.000000 damage to player1
+player1 attacks and causes 11.000000 damage to player2
+player2 attacks and causes 14.000000 damage to player1
+player1 attacks and causes 9.000000 damage to player2
+player2 attacks and causes 14.000000 damage to player1
+player1 attacks and causes 9.000000 damage to player2
+player2 attacks and causes 11.000000 damage to player1
+player1 is dead and player2 wins.
+Do you want a rematch? Please input yes or no
+yes
+player2 attacks and failed.
+player1 attacks and causes 8.000000 damage to player2
+player2 attacks and causes 10.000000 damage to player1
+player1 attacks and causes 10.000000 damage to player2
+player2 attacks and causes 14.000000 damage to player1
+player1 attacks and causes 12.000000 damage to player2
+player2 attacks and causes 13.000000 damage to player1
+player1 attacks and causes 11.000000 damage to player2
+player2 attacks and causes 14.000000 damage to player1
+player1 attacks and causes 12.000000 damage to player2
+player2 attacks and causes 10.000000 damage to player1
+player1 attacks and causes 10.000000 damage to player2
+player2 attacks and failed.
+player1 attacks and causes 8.000000 damage to player2
+player2 attacks and causes 10.000000 damage to player1
+player1 attacks and causes 8.000000 damage to player2
+player2 attacks and causes 10.000000 damage to player1
+player1 attacks and causes 9.000000 damage to player2
+player2 attacks and causes 10.000000 damage to player1
+player1 is dead and player2 wins.
+Do you want a rematch? Please input yes or no
+yes
+player2 attacks and causes 12.000000 damage to player1
+player1 attacks and causes 9.000000 damage to player2
+player2 attacks and causes 14.000000 damage to player1
+player1 attacks and causes 9.000000 damage to player2
+player2 attacks and causes 13.000000 damage to player1
+player1 attacks and causes 12.000000 damage to player2
+player2 attacks and causes 14.000000 damage to player1
+player1 attacks and causes 9.000000 damage to player2
+player2 attacks and failed.
+player1 attacks and causes 11.000000 damage to player2
+player2 attacks and failed.
+player1 attacks and causes 9.000000 damage to player2
+player2 attacks and failed.
+player1 attacks and causes 12.000000 damage to player2
+player2 attacks and causes 11.000000 damage to player1
+player1 attacks and causes 8.000000 damage to player2
+player2 attacks and causes 12.000000 damage to player1
+player1 attacks and causes 8.000000 damage to player2
+player2 attacks and causes 13.000000 damage to player1
+player1 is dead and player2 wins.
+Do you want a rematch? Please input yes or no
+yes
+player2 attacks and failed.
+player1 attacks and causes 9.000000 damage to player2
+player2 attacks and causes 13.000000 damage to player1
+player1 attacks and causes 11.000000 damage to player2
+player2 attacks and failed.
+player1 attacks and causes 8.000000 damage to player2
+player2 attacks and causes 10.000000 damage to player1
+player1 attacks and causes 8.000000 damage to player2
+player2 attacks and failed.
+player1 attacks and causes 11.000000 damage to player2
+player2 attacks and causes 12.000000 damage to player1
+player1 attacks and causes 11.000000 damage to player2
+player2 attacks and failed.
+player1 attacks and causes 12.000000 damage to player2
+player2 attacks and causes 13.000000 damage to player1
+player1 attacks and causes 8.000000 damage to player2
+player2 attacks and causes 14.000000 damage to player1
+player1 attacks and causes 9.000000 damage to player2
+player2 attacks and causes 11.000000 damage to player1
+player1 attacks and causes 10.000000 damage to player2
+player2 attacks and causes 13.000000 damage to player1
+player1 is dead and player2 wins.
+Do you want a rematch? Please input yes or no
+yes
+player2 attacks and causes 13.000000 damage to player1
+player1 attacks and causes 8.000000 damage to player2
+player2 attacks and causes 10.000000 damage to player1
+player1 attacks and causes 9.000000 damage to player2
+player2 attacks and failed.
+player1 attacks and causes 8.000000 damage to player2
+player2 attacks and causes 13.000000 damage to player1
+player1 attacks and causes 8.000000 damage to player2
+player2 attacks and failed.
+player1 attacks and causes 9.000000 damage to player2
+player2 attacks and causes 11.000000 damage to player1
+player1 attacks and causes 11.000000 damage to player2
+player2 attacks and failed.
+player1 attacks and causes 11.000000 damage to player2
+player2 attacks and failed.
+player1 attacks and causes 9.000000 damage to player2
+player2 attacks and causes 13.000000 damage to player1
+player1 attacks and causes 12.000000 damage to player2
+player2 attacks and causes 14.000000 damage to player1
+player1 attacks and causes 9.000000 damage to player2
+player2 attacks and causes 10.000000 damage to player1
+player1 attacks and causes 10.000000 damage to player2
+player2 is dead and player1 wins.
+Do you want a rematch? Please input yes or no
+no
+

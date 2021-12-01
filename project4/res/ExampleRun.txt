@@ -1,0 +1,152 @@
+current location is [2, 2]
+the information of location is: [west]
+there is a great pungent smell
+player's information: {Arrow=3}
+Do you want to shoot? if yes, input the direction and distance split by ',' otherwise input no
+west,1
+you don't hit the monster
+Do you want to shoot? if yes, input the direction and distance split by ',' otherwise input no
+no
+input the direction you want to move
+west
+current location is [2, 1]
+the information of location is: [east, west, north, DIAMONDS, RUBIES]
+there is a great pungent smell
+input treasures you want to pick up, if more than one treasure, split treasures by',' if no treasure you want to pick up, input no
+diamonds,rubies
+you successfully pick up the treasure
+player's information: {Arrow=2, RUBIES=1, DIAMONDS=1}
+Do you want to shoot? if yes, input the direction and distance split by ',' otherwise input no
+north,1
+you successfully hit a monster
+Do you want to shoot? if yes, input the direction and distance split by ',' otherwise input no
+north,1
+you successfully hit a monster
+you don't have any arrow now
+input the direction you want to move
+north
+current location is [1, 1]
+the information of location is: [east, south, west, DIAMONDS]
+there is a less pungent smell
+input treasures you want to pick up, if more than one treasure, split treasures by',' if no treasure you want to pick up, input no
+no
+you choose to pick up no treasure
+player's information: {Arrow=0, RUBIES=1, DIAMONDS=1}
+you don't have any arrow now
+input the direction you want to move
+west
+current location is [1, 0]
+the information of location is: [east, north]
+player's information: {Arrow=0, RUBIES=1, DIAMONDS=1}
+you don't have any arrow now
+input the direction you want to move
+north
+current location is [0, 0]
+the information of location is: [east, south, 1 arrow]
+do you want to pick up the arrow? if yes, Please input yes, any other answer will be considered no
+yes
+you successfully pick up an arrow
+player's information: {Arrow=1, RUBIES=1, DIAMONDS=1}
+Do you want to shoot? if yes, input the direction and distance split by ',' otherwise input no
+no
+input the direction you want to move
+east
+current location is [0, 1]
+the information of location is: [west, east, 1 arrow]
+do you want to pick up the arrow? if yes, Please input yes, any other answer will be considered no
+yes
+you successfully pick up an arrow
+player's information: {Arrow=2, RUBIES=1, DIAMONDS=1}
+Do you want to shoot? if yes, input the direction and distance split by ',' otherwise input no
+no
+input the direction you want to move
+east
+current location is [0, 2]
+the information of location is: [west, DIAMONDS, 1 arrow]
+input treasures you want to pick up, if more than one treasure, split treasures by',' if no treasure you want to pick up, input no
+diamonds
+you successfully pick up the treasure
+do you want to pick up the arrow? if yes, Please input yes, any other answer will be considered no
+yes
+you successfully pick up an arrow
+player's information: {Arrow=3, RUBIES=1, DIAMONDS=2}
+Do you want to shoot? if yes, input the direction and distance split by ',' otherwise input no
+no
+input the direction you want to move
+west
+current location is [0, 1]
+the information of location is: [west, east]
+player's information: {Arrow=3, RUBIES=1, DIAMONDS=2}
+Do you want to shoot? if yes, input the direction and distance split by ',' otherwise input no
+no
+input the direction you want to move
+west
+current location is [0, 0]
+the information of location is: [east, south]
+player's information: {Arrow=3, RUBIES=1, DIAMONDS=2}
+Do you want to shoot? if yes, input the direction and distance split by ',' otherwise input no
+no
+input the direction you want to move
+south
+current location is [1, 0]
+the information of location is: [east, north]
+player's information: {Arrow=3, RUBIES=1, DIAMONDS=2}
+Do you want to shoot? if yes, input the direction and distance split by ',' otherwise input no
+no
+input the direction you want to move
+east
+current location is [1, 1]
+the information of location is: [east, south, west, DIAMONDS]
+there is a less pungent smell
+input treasures you want to pick up, if more than one treasure, split treasures by',' if no treasure you want to pick up, input no
+no
+you choose to pick up no treasure
+player's information: {Arrow=3, RUBIES=1, DIAMONDS=2}
+Do you want to shoot? if yes, input the direction and distance split by ',' otherwise input no
+no
+input the direction you want to move
+east
+current location is [1, 2]
+the information of location is: [west, east, 1 arrow]
+there is a less pungent smell
+do you want to pick up the arrow? if yes, Please input yes, any other answer will be considered no
+yes
+you successfully pick up an arrow
+player's information: {Arrow=4, RUBIES=1, DIAMONDS=2}
+Do you want to shoot? if yes, input the direction and distance split by ',' otherwise input no
+no
+input the direction you want to move
+east
+current location is [1, 3]
+the information of location is: [south, north, west, DIAMONDS]
+there is a great pungent smell
+input treasures you want to pick up, if more than one treasure, split treasures by',' if no treasure you want to pick up, input no
+diamonds
+you successfully pick up the treasure
+player's information: {Arrow=4, RUBIES=1, DIAMONDS=3}
+Do you want to shoot? if yes, input the direction and distance split by ',' otherwise input no
+north,1
+you successfully hit a monster
+Do you want to shoot? if yes, input the direction and distance split by ',' otherwise input no
+north,1
+you successfully hit a monster
+Do you want to shoot? if yes, input the direction and distance split by ',' otherwise input no
+no
+input the direction you want to move
+north
+you reached the end, game over
+
+------
+
+current location is [1, 2]
+the information of location is: [north, 1 arrow]
+there is a great pungent smell
+do you want to pick up the arrow? if yes, Please input yes, any other answer will be considered no
+no
+you choose not to pick up the arrow
+player's information: {Arrow=3}
+Do you want to shoot? if yes, input the direction and distance split by ',' otherwise input no
+no
+input the direction you want to move
+north
+unfortunately you are eaten by the monster
